@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "IlVc3wnXfx7O2KsLl05vhvY5GWfpHcDbQE6TGMA95hqAqihr+j+iCX8SoeexS4rsKGJHjc08SKovSnQoShynGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Meet  Kerasiya\\source\\repos\\RabbitMQDemo\\WorkerQueue_Reciever\\WorkerQueue_Reciever.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Meet  Kerasiya\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\Meet  Kerasiya\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\Meet  Kerasiya\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Meet  Kerasiya\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
